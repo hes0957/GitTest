@@ -1,9 +1,0 @@
-diff a/ReadMe.txt b/ReadMe.txt	(rejected hunks)
-@@ -2,0 +2,6 @@
-\ No newline at end of file
-+Hier die PJ-Struktur erläutern.
-+<<<<<<< Updated upstream
-+=======
-+- Src
-+- Debug
-+>>>>>>> Stashed changes
