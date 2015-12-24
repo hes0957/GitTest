@@ -1,0 +1,1 @@
+Hier die PJ-Struktur erläutern.
