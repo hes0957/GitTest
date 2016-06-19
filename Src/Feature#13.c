@@ -2,9 +2,7 @@
 
 struct Author
 {
-	string 	Name;
-	string 	Surname;
-	Date	BirthDate;
+	string 	name;
 }
 
 
