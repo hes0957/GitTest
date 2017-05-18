@@ -11,7 +11,7 @@ struct Book
 {
 	string	title;
 	string	author;
-	string	dateOfIssue;
+	string	issueDate;
 };
 
 
