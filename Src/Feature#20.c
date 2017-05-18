@@ -7,6 +7,7 @@ struct Author
 	Date	birthDate;
 };
 
+// Book 
 struct Book
 {
 	string	title;
