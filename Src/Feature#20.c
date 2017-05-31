@@ -1,5 +1,6 @@
 //RQ#20 *
 
+// Author
 struct Author
 {
 	string 	name;
